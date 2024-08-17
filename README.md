@@ -33,4 +33,3 @@ Este programa foi criado como um aplicativo desktop em ambiente linux.
   <img src="https://github.com/EMV271828/planejador_de_tarefas/blob/criacao_de_readme_e_licenca/img/tarefas_concluidas.png" width="200">
   <img src="https://github.com/EMV271828/planejador_de_tarefas/blob/criacao_de_readme_e_licenca/img/tarefas_recentes.png" width="200">
 </span>
-
